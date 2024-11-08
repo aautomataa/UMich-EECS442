@@ -1,2 +1,2 @@
 # UMich-EECS442
-self-learning program
+https://www.eecs.umich.edu/courses/eecs442/fa24/
